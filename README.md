@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gravity4543
+- 👋 Hi, i'am Shikhar Vats
 - 👀 I’m interested in ...Learning programming
 - 🌱 I’m currently learning ...languages such as c++ and c...and data structures
 - 💞️ I’m looking to collaborate on ...
